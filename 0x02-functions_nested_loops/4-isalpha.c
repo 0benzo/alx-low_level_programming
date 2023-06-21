@@ -1,9 +1,4 @@
-/*
- * File: 4-isalpha.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main"
 
 /**
  * _isalpha - Checks if a character is alphabetic.
