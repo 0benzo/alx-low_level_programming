@@ -23,7 +23,7 @@ largest = b;
 }
 else
 {
-Regest = c;
+largest = c;
 }
-Return (largest);
+return (largest);
 }
